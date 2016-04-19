@@ -1,0 +1,21 @@
+{
+  "name": "library",
+  "description": "this is a test",
+  "main": "app.js",
+  "authors": [
+    "JP <xiriusxx@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.1"
+  }
+}
