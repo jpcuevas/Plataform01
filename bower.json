@@ -1,0 +1,25 @@
+{
+  "name": "plataform01",
+  "description": "esto es una prueba configurando node.js junto con express utilizando el template de creative tim como prueba",
+  "main": "gulpfile.js",
+  "authors": [
+    "JP <xiriusxx@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-ui": "^1.11.4",
+    "bootstrap-datepicker": "^1.6.0",
+    "font-awesome": "^4.6.1",
+    "bootstrap": "^3.3.6",
+    "bootstrap-select": "^1.10.0"
+  }
+}
